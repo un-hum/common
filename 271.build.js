@@ -1,0 +1,1 @@
+(self.webpackChunkcommon=self.webpackChunkcommon||[]).push([[271],{271:o=>{o.exports={test:function(){console.log("test------1")}}}}]);
